@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\obj\Debug\net7.0\home6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\obj\Debug\net7.0\home6.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\obj\Debug\net7.0\home6.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\obj\Debug\net7.0\home6.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\bin\Debug\net7.0\home6.exe
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\bin\Debug\net7.0\home6.deps.json
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\bin\Debug\net7.0\home6.runtimeconfig.json
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\bin\Debug\net7.0\home6.dll
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\bin\Debug\net7.0\home6.pdb
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\obj\Debug\net7.0\home6.dll
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\obj\Debug\net7.0\refint\home6.dll
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\obj\Debug\net7.0\home6.pdb
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\obj\Debug\net7.0\home6.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Cшарп\Homework\home6\obj\Debug\net7.0\ref\home6.dll
